@@ -1,4 +1,4 @@
-# CERBERUS-WIFI v2.0
+# CERBERUS-WIFI v3.0
 
 ## WiFi Deauth & Device Control Framework
 
